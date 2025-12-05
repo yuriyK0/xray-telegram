@@ -38,7 +38,7 @@ wget https://raw.githubusercontent.com/yuriyK0/xray-telegram/main/install-v23.0-
 
 ```
 chmod +x install-v23.0-full-fixed.sh
-sudo bash install-v23.0-full-fixed.sh
+
 
 ### 2. Подготавливаем данные
 
