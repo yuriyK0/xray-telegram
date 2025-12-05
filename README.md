@@ -2,7 +2,7 @@
 XRAY VPN + Telegram Bot - Full-featured VPN server with Reality masking
 # 🚀 XRAY VPN + TELEGRAM BOT v23.0-full
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 ![Version](https://img.shields.io/badge/version-v23.0--full-brightgreen.svg)
 ![Language](https://img.shields.io/badge/language-Bash%2FPython-orange.svg)
 ![Status](https://img.shields.io/badge/status-Stable-success.svg)
