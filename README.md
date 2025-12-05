@@ -8,6 +8,7 @@ XRAY VPN + Telegram Bot - Full-featured VPN server with Reality masking
 ![Status](https://img.shields.io/badge/status-Stable-success.svg)
 
 Полнофункциональный VPN сервер на базе **Xray** с **Reality маскировкой** и управлением через **Telegram Bot**.
+Этот скрипт- только для личного, некоммерческого использования!
 
 ## ✨ Основные возможности
 
