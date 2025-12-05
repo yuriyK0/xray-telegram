@@ -34,7 +34,7 @@ XRAY VPN + Telegram Bot - Full-featured VPN server with Reality masking
 ### 1. Скачиваем скрипт
 
 ```bash
-wget https://raw.githubusercontent.com/yuriyK0/xray-telegram/blob/main/install-v23.0-full-fixed.sh
+wget https://raw.githubusercontent.com/yuriyK0/xray-telegram/main/install-v23.0-full-fixed.sh
 chmod +x install-v23.0-full-FIXED.sh
 ```
 
@@ -339,7 +339,7 @@ MIT License - смотрите файл LICENSE
 ### 🚀 Начните с установки:
 
 ```bash
-wget https://raw.githubusercontent.com/your-username/xray-telegram/main/install-v23.0-full-FIXED.sh
+wget https://raw.githubusercontent.com/yuriyK0/xray-telegram/main/install-v23.0-full-fixed.sh
 chmod +x install-v23.0-full-FIXED.sh
 sudo bash install-v23.0-full-FIXED.sh
 ```
