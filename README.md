@@ -53,7 +53,7 @@ chmod +x install-v23.0-full-fixed.sh
 ### 3. Запускаем установку
 
 ```bash
-sudo bash install-v23.0-full-FIXED.sh
+sudo bash install-v23.0-full-fixed.sh
 ```
 
 ### 4. Вводим данные
