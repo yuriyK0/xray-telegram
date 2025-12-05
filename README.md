@@ -42,8 +42,8 @@ wget https://raw.githubusercontent.com/yuriyK0/xray-telegram/main/install-v23.0-
 ```
 chmod +x install-v23.0-full-fixed.sh
 
-
 ### 2. Подготавливаем данные
+устанавливать желательно на чистый сервер с обновлением update && apt upgrade  порт 443 должен быть открыт!
 Перед запуском вам понадобятся:
 - **IP сервера** (или Enter для автоопределения)
 - **Telegram Bot Token** - получить от @BotFather
